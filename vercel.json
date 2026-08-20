@@ -1,0 +1,5 @@
+{
+  "rootDirectory": "student-leaders",
+  "buildCommand": "npm run build",
+  "outputDirectory": "dist"
+}
